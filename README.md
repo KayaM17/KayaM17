@@ -1,7 +1,9 @@
 ### Hi there 👋🏾
 
 - 👩🏾‍💻 I'm Kaya
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python & React.
+- 👀 I'm passionate about web development, proficient in HTML, 
+JavaScript, and Python.
+- 🌱 I’m currently working on creating 
+projects to strengthen my skills.
 - 📫 How to reach me: ...
 
